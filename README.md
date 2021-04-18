@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @sahiljoshi6378
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m SAHIL JOSHI
+- 👀 I’m interested in 
+- 🌱 I’m currently learning Javascript and React 
+- 💞️ I’m looking to collaborate on Project 
+- 📫 contact me on : sahiljoshi6378@gmail.com
 
 <!---
 sahiljoshi6378/sahiljoshi6378 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
